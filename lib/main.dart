@@ -2,6 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:sample5/splash.dart';
 import './loginScreen.dart';
 
+const SAVE_KEY_NAME = 'userloggedin';
+
 void main() {
   runApp(const MyApp());
 }
